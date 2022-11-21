@@ -8,10 +8,10 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/punta-del-este.webp",
-        "imagen2": "../img/destinos/bariloche/bariloche1.webp",
-        "imagen3": "../img/destinos/bariloche/bariloche2.webp",
-        "imagen4": "../img/destinos/bariloche/bariloche3.webp",
-        "imagen5": "../img/destinos/bariloche/bariloche4.webp"
+        "imagen2": "../img/destinos/cancun/cancun1.webp",
+        "imagen3": "../img/destinos/cancun/cancun2.webp",
+        "imagen4": "../img/destinos/cancun/cancun3.webp",
+        "imagen5": "../img/destinos/cancun/cancun4.webp"
     },
     {
         "id": "2",
@@ -22,7 +22,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/bariloche.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/bariloche/bariloche1.webp",
+        "imagen3": "../img/destinos/bariloche/bariloche2.webp",
+        "imagen4": "../img/destinos/bariloche/bariloche3.webp",
+        "imagen5": "../img/destinos/bariloche/bariloche4.webp"
+
     },
     {
         "id": "3",
@@ -33,7 +37,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/madrid.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/buenos-aires/buenos-aires1.webp",
+        "imagen3": "../img/destinos/buenos-aires/buenos-aires2.webp",
+        "imagen4": "../img/destinos/buenos-aires/buenos-aires3.webp",
+        "imagen5": "../img/destinos/buenos-aires/buenos-aires4.webp"
+
     },
     {
         "id": "4",
@@ -44,7 +52,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/buenos-aires.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/bariloche/bariloche1.webp",
+        "imagen3": "../img/destinos/bariloche/bariloche2.webp",
+        "imagen4": "../img/destinos/bariloche/bariloche3.webp",
+        "imagen5": "../img/destinos/bariloche/bariloche4.webp"
+
     },
     {
         "id": "5",
@@ -55,7 +67,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/cancun.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/cancun/cancun1.webp",
+        "imagen3": "../img/destinos/cancun/cancun2.webp",
+        "imagen4": "../img/destinos/cancun/cancun3.webp",
+        "imagen5": "../img/destinos/cancun/cancun4.webp"
+
     },
     {
         "id": "6",
@@ -66,7 +82,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/miami.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/buenos-aires/buenos-aires1.webp",
+        "imagen3": "../img/destinos/buenos-aires/buenos-aires2.webp",
+        "imagen4": "../img/destinos/buenos-aires/buenos-aires3.webp",
+        "imagen5": "../img/destinos/buenos-aires/buenos-aires4.webp"
+
     },
     {
         "id": "7",
@@ -77,7 +97,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/punta-cana.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/bariloche/bariloche1.webp",
+        "imagen3": "../img/destinos/bariloche/bariloche2.webp",
+        "imagen4": "../img/destinos/bariloche/bariloche3.webp",
+        "imagen5": "../img/destinos/bariloche/bariloche4.webp"
+
     },
     {
         "id": "8",
@@ -88,7 +112,11 @@
         "categoria": "destinos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/destinos/recife.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/destinos/cancun/cancun1.webp",
+        "imagen3": "../img/destinos/cancun/cancun2.webp",
+        "imagen4": "../img/destinos/cancun/cancun3.webp",
+        "imagen5": "../img/destinos/cancun/cancun4.webp"
+
     },
     {
         "id": "9", 
@@ -99,7 +127,11 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus.",
         "imagen1": "../img/alojamientos/alojamiento1/1.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento1/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento1/3.webp",
+        "imagen4": "../img/alojamientos/alojamiento1/1.webp",
+        "imagen5": "../img/alojamientos/alojamiento1/2.webp"
+
     },
     {
         "id": "10", 
@@ -110,7 +142,11 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
         "imagen1": "../img/alojamientos/alojamiento2/1.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento2/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento2/2.webp",
+        "imagen4": "../img/alojamientos/alojamiento2/2.webp",
+        "imagen5": "../img/alojamientos/alojamiento2/2.webp"
+
     },
     {
         "id": "11", 
@@ -121,7 +157,11 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
         "imagen1": "../img/alojamientos/alojamiento3/1.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento3/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento3/3.webp",
+        "imagen4": "../img/alojamientos/alojamiento3/1.webp",
+        "imagen5": "../img/alojamientos/alojamiento3/2.webp"
+
     },
     {
         "id": "12", 
@@ -132,7 +172,11 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
         "imagen1": "../img/alojamientos/alojamiento4/1.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento4/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento4/3.webp",
+        "imagen4": "../img/alojamientos/alojamiento4/1.webp",
+        "imagen5": "../img/alojamientos/alojamiento4/2.webp"
+
     },
     {
         "id": "13", 
@@ -143,7 +187,11 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
         "imagen1": "../img/alojamientos/alojamiento5/1.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento5/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento5/3.webp",
+        "imagen4": "../img/alojamientos/alojamiento5/1.webp",
+        "imagen5": "../img/alojamientos/alojamiento5/2.webp"
+
     },
     {
         "id": "14", 
@@ -154,7 +202,11 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
         "imagen1": "../img/alojamientos/alojamiento6/1.webp",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento6/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento6/3.webp",
+        "imagen4": "../img/alojamientos/alojamiento6/1.webp",
+        "imagen5": "../img/alojamientos/alojamiento6/2.webp"
+
     },
     {
         "id": "15", 
@@ -165,61 +217,10 @@
         "categoria": "alojamientos",
         "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
         "imagen1": "../img/alojamientos/alojamiento7/1.webp",
-        "imagen2": "../img/"
-    },
-    {
-        "id": "16", 
-        "idProd": "v1",
-        "nombre": "Peugeot", 
-        "ciudad": "", 
-        "precio": 1800,
-        "categoria": "autos",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
-        "imagen1": "../img/vehiculos/1.jpg",
-        "imagen2": "../img/"
-    },
-    {
-        "id": "17", 
-        "idProd": "v2",
-        "nombre": "Hyundai", 
-        "ciudad": "", 
-        "precio": 1800,
-        "categoria": "autos",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
-        "imagen1": "../img/vehiculos/2.jpg",
-        "imagen2": "../img/"
-    },
-    {
-        "id": "18", 
-        "idProd": "v3",
-        "nombre": "Chevrolet", 
-        "ciudad": "", 
-        "precio": 1800,
-        "categoria": "autos",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
-        "imagen1": "../img/vehiculos/3.jpg",
-        "imagen2": "../img/"
-    },
-    {
-        "id": "19", 
-        "idProd": "v4",
-        "nombre": "Nissan", 
-        "ciudad": "", 
-        "precio": 1800,
-        "categoria": "autos",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
-        "imagen1": "../img/vehiculos/4.jpg",
-        "imagen2": "../img/"
-    },
-    {
-        "id": "20", 
-        "idProd": "v5",
-        "nombre": "Suzuki", 
-        "ciudad": "",
-        "precio": 1800,
-        "categoria": "autos",
-        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non rem exercitationem dolore, dolorem distinctio quasi cum temporibus. ",
-        "imagen1": "../img/vehiculos/5.jpg",
-        "imagen2": "../img/"
+        "imagen2": "../img/alojamientos/alojamiento7/2.webp",
+        "imagen3": "../img/alojamientos/alojamiento7/3.webp",
+        "imagen4": "../img/alojamientos/alojamiento7/1.webp",
+        "imagen5": "../img/alojamientos/alojamiento7/2.webp"
+
     }
 ]

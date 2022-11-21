@@ -7,7 +7,6 @@ export default function ItemDetailContainer(){
   const [servicio, setServicio] = useState({})
   
   const {id} = useParams()
-
   useEffect(()=>{
     gFetch(id)
     .then(res => setServicio(res))
@@ -16,8 +15,8 @@ export default function ItemDetailContainer(){
 
 
   return (
-    <div>
+      <>
         <ItemDetail servicio={servicio}/>
-    </div>
+      </>
   )
 }

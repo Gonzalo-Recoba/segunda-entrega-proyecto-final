@@ -1,10 +1,6 @@
-import React from 'react';
-
-
-
 export default function Carousel() {
     return (
-        <div>
+        <>
             <div id="carouselExampleIndicators" className="carousel carouselppal slide pt-1 w-100 mx-auto mb-3 wow animate__zoomIn" data-bs-ride="carousel">
                 <div className="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -31,6 +27,6 @@ export default function Carousel() {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
-        </div>
+        </>
     );
 }

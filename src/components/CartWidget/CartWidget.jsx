@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function CartWidget(){
     let countCart = 0
     return(
-        <div>
+        <>
             <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModallogin" className="bg-transparent border-0" href="#" >
                 <img src='img/perfil.png' alt="icono perfil" className='mx-3 perfil' />
             </button>
@@ -70,6 +70,6 @@ export default function CartWidget(){
                     </div>
                 </div>
             </div> 
-        </div>
+        </>
     )
 }

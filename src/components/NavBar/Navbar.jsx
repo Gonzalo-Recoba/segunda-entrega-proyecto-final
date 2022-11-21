@@ -1,11 +1,10 @@
-import React from 'react';
 import CartWidget  from '../CartWidget/CartWidget';
 import { Link } from 'react-router-dom';
 
 
 export default function NavBarr() {
     return (
-        <div>
+        <>
             <header id="mainNavigation">
                 <nav role="navigation">
                     <div className="pt-3 text-center">
@@ -29,6 +28,6 @@ export default function NavBarr() {
                     </div>
                 </div>
             </header>
-        </div>
+        </>
     );
 }
